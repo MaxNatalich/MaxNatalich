@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaxNatalich
-- 👀 I’m interested in becoming frontend developer
+- 👀 I’m interested in becoming Frontend Developer
 - 🌱 I’m currently learning JS, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
